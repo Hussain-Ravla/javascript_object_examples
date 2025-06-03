@@ -1,0 +1,5 @@
+const meth = {
+    null:"hii",
+    
+
+}
